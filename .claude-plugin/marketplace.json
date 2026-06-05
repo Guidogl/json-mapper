@@ -1,0 +1,20 @@
+{
+  "name": "json-mapper",
+  "owner": {
+    "name": "guidogl",
+    "email": "guidogl@gip.ventures"
+  },
+  "metadata": {
+    "description": "Map, transform, and validate source data into JSON conforming to a target JSON Schema.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "json-mapper",
+      "description": "Map, transform, and validate source data into JSON conforming to a target JSON Schema.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./"]
+    }
+  ]
+}
