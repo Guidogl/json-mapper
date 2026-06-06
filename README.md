@@ -1,6 +1,10 @@
 # json-mapper
 
 [![skills.sh](https://skills.sh/b/guidogl/json-mapper)](https://skills.sh/guidogl/json-mapper)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](./LICENSE.txt)
+[![Agent Skills Spec](https://img.shields.io/badge/Agent%20Skills-Specification-blue)](https://agentskills.io)
+[![JSON Schema](https://img.shields.io/badge/JSON%20Schema-draft%202020--12-orange)](https://json-schema.org/)
+[![Python](https://img.shields.io/badge/python-3.x-blue?logo=python&logoColor=white)](https://www.python.org)
 
 An agent skill that maps, transforms, and validates arbitrary source data into JSON that
 conforms to a target JSON Schema.
